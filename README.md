@@ -4,8 +4,6 @@ Lets say, we have to do some action for every object uploaded / added to S3 Buck
 
 ![AWS Serverless S3 Real Time Event Processor](images/miztiik-serverless-s3-event-processor.png)
 
-#### Follow this article in [Youtube](https://youtube.com/c/valaxytechnologies)
-
 0. ### Prerequisites
 
 - AWS CLI pre-configured
